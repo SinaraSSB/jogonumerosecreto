@@ -1,2 +1,3 @@
 <h1> Jogo do numero Secreto - Curso Alura </h1> 
-<h2> Clonado do Github de SinaraSSB </h2>
+<h2> Curso Alura </h2>
+<h5> Clonado do Github de SinaraSSB </h5>
