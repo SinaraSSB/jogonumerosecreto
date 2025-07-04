@@ -12,3 +12,5 @@
 *** main alterado novamente *** 
 ---
 
+> isso foi feito depois do stash
+> o comando git stash pop. Esse pop, ele aplica o que tiver na nossa gaveta, no nosso estoque.
