@@ -3,7 +3,9 @@
 <h5> Clonado do Github de SinaraSSB </h5>
 ## alterado no branch main  
 
-## esta linha só existe no branch novo ## 
+## Git Stash -- vou engavetar estas alterações 
+o `git stash` guarda uma alteração para que ela possa ser retomada depois.
+## ## ## -- continuando depois de stash e stash pop,  `git stash pop`
 
 
 
